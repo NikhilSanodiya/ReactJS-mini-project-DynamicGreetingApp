@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactJS-mini-project-DynamicGreetingApp/static/css/main.720c14ff.chunk.css",
+    "main.js": "/ReactJS-mini-project-DynamicGreetingApp/static/js/main.30a20de6.chunk.js",
+    "main.js.map": "/ReactJS-mini-project-DynamicGreetingApp/static/js/main.30a20de6.chunk.js.map",
+    "runtime-main.js": "/ReactJS-mini-project-DynamicGreetingApp/static/js/runtime-main.356f07a3.js",
+    "runtime-main.js.map": "/ReactJS-mini-project-DynamicGreetingApp/static/js/runtime-main.356f07a3.js.map",
+    "static/js/2.e93ac830.chunk.js": "/ReactJS-mini-project-DynamicGreetingApp/static/js/2.e93ac830.chunk.js",
+    "static/js/2.e93ac830.chunk.js.map": "/ReactJS-mini-project-DynamicGreetingApp/static/js/2.e93ac830.chunk.js.map",
+    "index.html": "/ReactJS-mini-project-DynamicGreetingApp/index.html",
+    "static/css/main.720c14ff.chunk.css.map": "/ReactJS-mini-project-DynamicGreetingApp/static/css/main.720c14ff.chunk.css.map",
+    "static/js/2.e93ac830.chunk.js.LICENSE.txt": "/ReactJS-mini-project-DynamicGreetingApp/static/js/2.e93ac830.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.356f07a3.js",
+    "static/js/2.e93ac830.chunk.js",
+    "static/css/main.720c14ff.chunk.css",
+    "static/js/main.30a20de6.chunk.js"
+  ]
+}
